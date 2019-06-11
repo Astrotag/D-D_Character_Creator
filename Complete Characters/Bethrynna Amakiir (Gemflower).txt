@@ -1,0 +1,27 @@
+Bethrynna Amakiir (Gemflower)
+Elf
+Druid
+
+Strength
+24
+Modifier 7
+
+Dexterity
+27
+Modifier 8
+
+Wisdom
+28
+Modifier 9
+
+Intelligence
+25
+Modifier 7
+
+Constitution
+20
+Modifier 5
+
+Charisma
+20
+Modifier 5

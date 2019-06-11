@@ -1,0 +1,27 @@
+Shaena Thorngage
+Halfling
+Ranger
+
+Strength
+14
+Modifier 2
+
+Dexterity
+10
+Modifier 0
+
+Wisdom
+12
+Modifier 1
+
+Intelligence
+8
+Modifier -1
+
+Constitution
+8
+Modifier -1
+
+Charisma
+13
+Modifier 1

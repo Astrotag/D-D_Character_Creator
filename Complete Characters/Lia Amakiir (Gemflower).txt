@@ -1,0 +1,27 @@
+Lia Amakiir (Gemflower)
+Elf
+Barbarian
+
+Strength
+22
+Modifier 6
+
+Dexterity
+25
+Modifier 7
+
+Wisdom
+24
+Modifier 7
+
+Intelligence
+17
+Modifier 3
+
+Constitution
+21
+Modifier 5
+
+Charisma
+23
+Modifier 6

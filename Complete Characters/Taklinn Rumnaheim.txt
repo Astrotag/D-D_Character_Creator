@@ -1,0 +1,27 @@
+Taklinn Rumnaheim
+Dwarf
+Barbarian
+
+Strength
+8
+Modifier -1
+
+Dexterity
+10
+Modifier 0
+
+Wisdom
+9
+Modifier 0
+
+Intelligence
+12
+Modifier 1
+
+Constitution
+11
+Modifier 0
+
+Charisma
+14
+Modifier 2

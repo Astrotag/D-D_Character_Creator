@@ -1,0 +1,27 @@
+Haseid Pashar
+Human
+Sorcerer
+
+Strength
+13
+Modifier 1
+
+Dexterity
+10
+Modifier 0
+
+Wisdom
+13
+Modifier 1
+
+Intelligence
+10
+Modifier 0
+
+Constitution
+11
+Modifier 0
+
+Charisma
+11
+Modifier 0

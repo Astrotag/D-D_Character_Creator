@@ -1,0 +1,27 @@
+Artin Lutgehr
+Dwarf
+Barbarian
+
+Strength
+12
+Modifier 1
+
+Dexterity
+8
+Modifier -1
+
+Wisdom
+9
+Modifier 0
+
+Intelligence
+8
+Modifier -1
+
+Constitution
+16
+Modifier 3
+
+Charisma
+9
+Modifier 0

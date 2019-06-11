@@ -1,0 +1,27 @@
+Lia Siannodel (Moonbrook)
+Elf
+Wizard
+
+Strength
+10
+Modifier 0
+
+Dexterity
+16
+Modifier 3
+
+Wisdom
+13
+Modifier 1
+
+Intelligence
+9
+Modifier 0
+
+Constitution
+9
+Modifier 0
+
+Charisma
+11
+Modifier 0
